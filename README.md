@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/iamcal/js-emoji.svg)](https://travis-ci.org/iamcal/js-emoji)
 [![Coverage Status](https://coveralls.io/repos/iamcal/js-emoji/badge.svg)](https://coveralls.io/r/iamcal/js-emoji)
 
+**Note** This is a fork of [`js-emoji`](https://github.com/iamcal/js-emoji) but with no dependency to `emoji-datasource` module which includes 107Mb of png data.
+
 Most macOS and iOS versions allow display and input of emoji. It's nice to show them on 
 other devices too, and the browser is a good place to do it. This library converts emoji
 (either from character codes or colon-sequences like `:smile:`) into something that will
