@@ -1,5 +1,5 @@
 {
-  "name": "emoji-js",
+  "name": "emoji-js-clean",
   "version": "3.4.1",
   "description": "A JS Emoji conversion library",
   "main": "lib/emoji.js",
