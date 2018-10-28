@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/iamcal/js-emoji.git"
+    "url": "git://github.com/ralphtheninja/emoji-js-clean.git"
   },
   "keywords": [
     "emoji",
@@ -37,7 +37,7 @@
   "author": "Cal Henderson <cal@iamcal.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iamcal/js-emoji/issues"
+    "url": "https://github.com/ralphtheninja/emoji-js-clean/issues"
   },
-  "homepage": "https://github.com/iamcal/js-emoji"
+  "homepage": "https://github.com/ralphtheninja/emoji-js-clean"
 }
